@@ -2,12 +2,6 @@
 
 This repository documents my learning journey in mastering essential **data structures and algorithms** as a foundational skillset for backend development, system design, automation, and technical problem solving.
 
-Each file in this repo corresponds to a major topic or category, structured in progressive steps, and includes:
-- **Hand-coded implementations**
-- **Concept breakdowns**
-- **Small applied exercises**
-- **Occasional comparative analysis or notes**
-
 ---
 
 ## ✅ Topics Covered / Planned
