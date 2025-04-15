@@ -1,6 +1,6 @@
 # Data Structures & Algorithms – Personal Practice Repository
 
-This repository documents my learning journey in mastering essential **data structures and algorithms** as a foundational skillset for backend development, system design, automation, and technical problem solving.
+This repository documents my learning journey in learning essential **data structures and algorithms** as a foundational skillset for backend development, system design, automation, and technical problem solving.
 
 ---
 
@@ -14,7 +14,7 @@ This repository documents my learning journey in mastering essential **data stru
 
 - **Binary Trees:** Implementation of binary trees and binary search trees (BSTs), tree traversals (in-order, pre-order, post-order), and solving common tree-based problems.
 
-- **Heaps and Priority Queues:** Min/max heap implementations, priority queue logic, heap sort, and real-world applications like scheduling and task management.
+- **Heaps and Priority Queues:** Min/max heap implementations, priority queue logic, heap sort.
 
 - **Sorting Algorithms:** Basic sorting techniques (bubble, insertion, selection), advanced sorting (merge, quick), linear-time algorithms (counting, radix), and performance comparison.
 
