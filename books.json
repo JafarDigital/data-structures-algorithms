@@ -1,41 +1,30 @@
 [
   {
     "title": "1984",
-    "author": "George Orwell",
-    "year": 1949,
-    "genres": [
-      "dystopian",
-      "political fiction"
-    ],
-    "available": true
-  },
-  {
-    "title": "Brave New World",
-    "author": "Aldous Huxley",
-    "year": 1932,
-    "genres": [
-      "dystopian",
-      "political fiction"
-    ],
-    "available": false
-  },
-  {
-    "title": "We",
-    "author": "Yevgeny Zamyatin",
-    "year": 1924,
-    "genres": [
-      "dystopian",
-      "political fiction"
-    ],
-    "available": true
+    "author": "George Orwell"
   },
   {
     "title": "Fahrenheit 451",
-    "author": "Ray Bradbury",
-    "year": 1953,
+    "author": "Ray Bradbury"
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "year": 1951,
     "genres": [
-      "censorship",
-      "dystopia"
-    ]
+      "science fiction",
+      "space opera"
+    ],
+    "available": true
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "author": "Arthur C. Clarke",
+    "year": 1968,
+    "genres": [
+      "science fiction",
+      "space exploration"
+    ],
+    "available": true
   }
 ]
