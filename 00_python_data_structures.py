@@ -1,4 +1,7 @@
 # ()
+# This is a basic layout of in-built Python data structures: lists, tuples, dictionaries, sets, collections, arrays...
+# Simple examples are provided. For more thorough application, check out the book_library.py
+
 fruits = ['apple', 'banana', 'cherry', 'apple']
 print(f"List:  {fruits}")
 
