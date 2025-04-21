@@ -1,3 +1,6 @@
+# In this book library app we make use of basic Python data structures to build a small library
+# The library app will later be expanded through implementing more data structures and algorithms within this project. 
+
 book1 = {
   "title": "1984", # string, not int
   "author": "George Orwell",
@@ -33,11 +36,12 @@ for book in books:
 available_books = [b for b in books if b['available']] # list comprehension
 print(f"\nAvailable books: {available_books}")
 
+# Let's add a book that is tuple instead of dictionary and see how we can manipulate a database with data of different data structures
 print("\n...Adding new book: ")
 book4 = ("Fahrenheit 451", "Ray Bradbury", 1953, {"dystopia", "censorship"})
 books.append(book4)
 
-# now the books list is of mixed types
+# Now the books list is of mixed types. We'll use ifs to display them accordingly
 print("\nBook Titles:")
 for book in books:
     if isinstance(book, dict):
@@ -46,10 +50,10 @@ for book in books:
         print(book[0])  # title is at index 0 
 
 # Find common genres between two books
-common_genres = list(set(books[0]["genres"]) & set(books[1]["genres"])) # & is a set operation, so we need to use set()
+common_genres = list(set(books[0]["genres"]) & set(books[1]["genres"])) # Here we have a case of converting lists to sets and using &, a set operator
 print(f"Common between {books[0]['title']} and {books[1]['title']}: {common_genres}")
 
-# Since one of the books was made as tuple, we need to convert it to dict before exporting the books list
+# Since one of the books is tuple, we need to convert it to dict before exporting the books list
 def normalise_books(books):
     normalised = []
     for book in books:
