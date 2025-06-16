@@ -1,10 +1,10 @@
 # Data Structures & Algorithms – Personal Practice Repository
 
-This repository documents my learning journey in learning essential **data structures and algorithms** as a foundational skillset for backend development, system design, automation, and technical problem solving.
+This repository documents my learning journey in learning essential **data structures and algorithms**
 
 ---
 
-## ✅ Topics Covered / Planned
+## Topics Covered / Planned
 
 - **Basic Python Data Structures:** Lists, dictionaries, tuples, sets, arrays, matrices + operations with them
 
@@ -25,19 +25,4 @@ This repository documents my learning journey in learning essential **data struc
 - **Graphs:** Graph representations (adjacency list/matrix), BFS, DFS, shortest path algorithms (Dijkstra), and minimum spanning trees (Kruskal, Prim).
 
 - **Advanced Algorithms:** Greedy strategies, union-find (disjoint sets), string matching algorithms, and selected specialized topics depending on interest and relevance.
-
----
-
-## 🧠 Why This Repo?
-
-- Practise **problem-solving skills**
-- Develop a clear, personal understanding of key CS concepts
-- Showcase progress through hands-on Python projects
-
-
----
-
-## 🤝 Contributions
-
-This is a personal learning project, but suggestions or improvements are welcome. Reach out via [GitHub Issues](https://github.com/JafarDigital/data-structures-algorithms/issues).
 
